@@ -1,15 +1,15 @@
 # Time series analysis with Japanese Yen
 ---
 
-This repository contains iplementation of various time series linear analysis with historical futures price data of Japanase Yen versus U.S. Dollar. 
+This repository contains iplementation of various time series analysis with historical futures price data of Japanase Yen versus U.S. Dollar. 
 
-This gives ideas about how to use following timeseries techniques using Pythin's statsmodels library 
+This gives ideas about how to use following timeseries techniques using Python's **statsmodels** library 
 * Timeseries decomposition to noise and trend using Hodrick-Prescott Filter
 * Forecasting using ARMA model
 * Forecasting using ARIMA model and 
-* Volatility forecasting usinf GARCH model
+* Volatility forecasting using GARCH model
 
-Same timeseries data has been used to implement a simple linear Rgression model with Scikit-learn library
+Same timeseries data has been used to implement a simple Linear Rgression model with Scikit-learn library
 
 
 
@@ -20,7 +20,7 @@ $git clone https://github.com/Roy-Tapas/timeseries-analysis-japanese-yen.git
 ```
 Stay in the same gitbash directory and open Jupyter lab by issuing the following command from gitbash: <br>
 ```
-$Jupyter lab
+$jupyter lab
 ```
 
 Implementations are in following two notebooks:
